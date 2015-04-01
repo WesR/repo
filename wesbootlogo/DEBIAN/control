@@ -1,0 +1,9 @@
+Package: me.wring.wesbootlogo
+Name: Wes Boot Logo
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is Wes's logo, in boot icon format!
+Homepage: http://wring.me
+Maintainer: Wes Ring <wring436@gmail.com>
+Author: Wes Ring <wring436@gmail.com>
+Section: Themes
