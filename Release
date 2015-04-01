@@ -1,0 +1,8 @@
+Origin: Wes's Repo
+Label: Wes's Repo
+Suite: stable
+Version: 1.0
+Codename: rustysock
+Architectures: iphoneos-arm
+Components: main
+Description: This is my main public repo for cydia
